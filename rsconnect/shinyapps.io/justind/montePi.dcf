@@ -1,0 +1,13 @@
+name: montePi
+title: montePi
+username:
+account: justind
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6978539
+bundleId: 6291414
+url: https://justind.shinyapps.io/montePi/
+when: 1662931897.24934
+lastSyncTime: 1662931897.24936
+asMultiple: FALSE
+asStatic: FALSE
