@@ -32,10 +32,8 @@ value)
 ```
 
 ## Development
-We welcome contributions! Before opening a pull request, please confirm that existing tests pass with **at least 80%
-coverage**:
+We welcome contributions! Before opening a pull request, please confirm that existing tests pass.
 
 ```
-coverage run -m pytest tests/
-coverage report
-```Carlo-Simulation
+python -m pytest tests/
+```
