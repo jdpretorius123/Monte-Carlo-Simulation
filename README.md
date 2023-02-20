@@ -1,4 +1,4 @@
-# Monte# A library for EHR utilities
+# A library for EHR utilities
 
 ## Modules
 ehr_utils - allows the user to perform basic operations
